@@ -1,7 +1,7 @@
 # Track IP
 ### [+] Created By HTR-TECH (@***tahmid.rayat***)
 ### [+] Disclaimer :
-***Track Ip is a tool to Trace Ip Address.This tool Povides a Vast Information about Ip Address.This Tool also Generates Google Map Url.This Tool is created for Educational Purpose only.***
+***Track Ip is a tool to Trace Ip Address.This tool Provides a Vast Information about Ip Address.This Tool also Generates Google Map Url.This Tool is created for Educational Purpose only.***
 
 <img src="https://i.ibb.co/pP8LnpT/track-ip.jpg" alt="" border="0" />
 
