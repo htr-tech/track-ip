@@ -8,18 +8,17 @@
 ### [+] Installation
 ```apt update```
 
-```apt install git -y```
+```apt install git curl -y```
 
 ```git clone https://github.com/htr-tech/track-ip```
 
 ```cd track-ip```
 
-```bash setup```
+```bash trackip.sh```
 
-## Type `track-ip` to run the Tool.
 ### Or, Use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/track-ip && cd track-ip && bash setup && track-ip
+apt update && apt install git curl -y && git clone https://github.com/htr-tech/track-ip && cd track-ip && bash trackip.sh
 ```
 ## [+] Find Me on :
 ### [~] [Facebook](https://facebook.com/tahmid.rayat.official/)
