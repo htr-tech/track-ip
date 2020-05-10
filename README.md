@@ -14,7 +14,7 @@
 
 ```cd track-ip```
 
-```bash trackip.sh```
+```bash trackip```
 
 ### Or, Use Single Command
 ```
