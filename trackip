@@ -10,10 +10,11 @@ printf "\e[1;33m     | |_ __ __ _  ___| | __ \e[0m\e[1;32m   | |  _ __  \e[0m\n"
 printf "\e[1;33m     | |  __/ _  |/ __| |/ / \e[0m\e[1;32m   | | |  _ \ \e[0m\n"
 printf "\e[1;33m     | | | | (_| | (__|   <  \e[0m\e[1;32m  _| |_| |_) |\e[0m\n"
 printf "\e[1;33m     |_|_|  \__,_|\___|_|\_\ \e[0m\e[1;32m |_____| .__/ \e[0m\n"
-printf "\e[1;32m                                    | |    \e[0m\n"
-printf "\e[1;32m                                    |_|    \e[0m\n"
+printf "\e[1;32m                                                 | |    \e[0m\n"
+printf "\e[1;32m                                                 |_|    \e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;33m    Created By HTR-TECH \e[0m\e[1;31m(\e[0m\e[1;33m TAHMID RAYAT \e[0m\e[1;31m)\e[0m\n"
+printf "\e[0m\e[1;33m    Tool By @nihalumar \e[0m\e[1;31m(\e[0m\e[1;33m Nihal Umar \e[0m\e[1;31m)\e[0m\n"
+printf "\e[0m\e[1;33m    Special Credit:- @htr-tech \e[0m\e[1;31m(\e[0m\e[1;33m Made with ❤️ \e[0m\e[1;31m)\e[0m\n"
 
 }
 
